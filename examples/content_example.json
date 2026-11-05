@@ -1,0 +1,8 @@
+{
+  "title": "Example Paper",
+  "source": "Original PDF",
+  "summary": "示例摘要：请按实际论文内容替换。",
+  "terms": [{"term": "Identification", "meaning": "识别策略：用于支持估计结果具有特定解释所需的研究设计与假设。"}],
+  "figures": [],
+  "pages": [{"page": 1, "translation": "请使用实际 PDF 内容逐段翻译。", "commentary": "请结合该页研究逻辑解释。"}]
+}
